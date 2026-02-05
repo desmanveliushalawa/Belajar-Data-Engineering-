@@ -1,4 +1,3 @@
-Baik, mari kita rangkum latihan tadi dalam format yang rapi:  
 
 ---
 
@@ -10,10 +9,10 @@ Tujuannya agar data yang besar bisa dipilah sesuai kebutuhan, misalnya hanya men
 
 ## 📥 Input & 📤 Output
 - **Input:**  
-  - File CSV (misalnya `data.csv`) berisi data tabel dengan kolom seperti `Nama`, `Usia`, `Kota`.  
+  - File CSV (misalnya `sales.csv`) berisi data tabel dengan kolom seperti 'Order_ID','Order_Date','Product','Category','Region','Sales','Quantity'.  
 - **Output:**  
   - File CSV baru (misalnya `hasil_filter.csv`) yang hanya berisi baris sesuai kriteria filter.  
-  - Contoh: jika filter `usia > 25`, maka hanya baris dengan usia lebih dari 25 yang tersimpan.
+  - Contoh: jika filter `sales > 1000000`, maka hanya baris dengan sales lebih dari 1000000 yang tersimpan.
 
 ---
 
@@ -30,8 +29,8 @@ Tujuannya agar data yang besar bisa dipilah sesuai kebutuhan, misalnya hanya men
    # Baca file CSV
    df = pd.read_csv("data.csv")
 
-   # Filter data (contoh: usia > 25)
-   filtered_df = df[df["usia"] > 25]
+   # Filter data (contoh: Sales > 1000000)
+   filtered_df = df[df["Sales"] > 1000000]
 
    # Simpan hasil ke CSV baru
    filtered_df.to_csv("hasil_filter.csv", index=False)
