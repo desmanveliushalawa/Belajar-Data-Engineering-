@@ -1,0 +1,12 @@
+Order_ID,Order_Date,Product,Category,Region,Sales,Quantity
+ORD001,1/2/2024,Laptop A,Electronics,Jakarta,8500000,1
+ORD003,1/3/2024,Office Chair,Furniture,Bandung,1750000,1
+ORD005,1/4/2024,Laptop A,Electronics,Surabaya,8500000,1
+ORD009,1/6/2024,Laptop B,Electronics,Bandung,9500000,1
+ORD011,1/7/2024,Office Chair,Furniture,Surabaya,1750000,1
+ORD015,1/9/2024,Laptop A,Electronics,Jakarta,8500000,1
+ORD019,1/11/2024,Office Chair,Furniture,Bandung,1750000,1
+ORD021,1/12/2024,Laptop B,Electronics,Jakarta,9500000,1
+ORD025,1/14/2024,Office Chair,Furniture,Jakarta,1750000,1
+ORD026,1/14/2024,Laptop A,Electronics,Surabaya,8500000,1
+ORD030,1/15/2024,Laptop B,Electronics,Jakarta,9500000,1

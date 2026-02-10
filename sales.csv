@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,Product,Category,Region,Sales,Quantity
+ORD001,1/2/2024,Laptop A,Electronics,Jakarta,8500000,1
+ORD002,1/2/2024,Mouse Wireless,Electronics,Jakarta,250000,2
+ORD003,1/3/2024,Office Chair,Furniture,Bandung,1750000,1
+ORD004,1/3/2024,Desk Lamp,Furniture,Bandung,350000,1
+ORD005,1/4/2024,Laptop A,Electronics,Surabaya,8500000,1
+ORD006,1/4/2024,Keyboard,Electronics,Jakarta,450000,1
+ORD007,1/5/2024,Notebook,Stationery,Jakarta,50000,5
+ORD008,1/5/2024,Pen,Stationery,Jakarta,15000,10
+ORD009,1/6/2024,Laptop B,Electronics,Bandung,9500000,1
+ORD010,1/6/2024,Mouse Wireless,Electronics,Surabaya,250000,1
+ORD011,1/7/2024,Office Chair,Furniture,Surabaya,1750000,1
+ORD012,1/7/2024,Desk Lamp,Furniture,Jakarta,350000,2
+ORD013,1/8/2024,Notebook,Stationery,Bandung,50000,3
+ORD014,1/8/2024,Pen,Stationery,Bandung,15000,8
+ORD015,1/9/2024,Laptop A,Electronics,Jakarta,8500000,1
+ORD016,1/9/2024,Keyboard,Electronics,Surabaya,450000,2
+ORD017,1/10/2024,Mouse Wireless,Electronics,Jakarta,250000,1
+ORD018,1/10/2024,Desk Lamp,Furniture,Jakarta,350000,1
+ORD019,1/11/2024,Office Chair,Furniture,Bandung,1750000,1
+ORD020,1/11/2024,Notebook,Stationery,Surabaya,50000,4
+ORD021,1/12/2024,Laptop B,Electronics,Jakarta,9500000,1
+ORD022,1/12/2024,Pen,Stationery,Jakarta,15000,12
+ORD023,1/13/2024,Keyboard,Electronics,Bandung,450000,1
+ORD024,1/13/2024,Desk Lamp,Furniture,Surabaya,350000,1
+ORD025,1/14/2024,Office Chair,Furniture,Jakarta,1750000,1
+ORD026,1/14/2024,Laptop A,Electronics,Surabaya,8500000,1
+ORD027,1/15/2024,Mouse Wireless,Electronics,Jakarta,250000,2
+ORD028,1/15/2024,Notebook,Stationery,Bandung,50000,6
+ORD029,1/15/2024,Pen,Stationery,Jakarta,15000,15
+ORD030,1/15/2024,Laptop B,Electronics,Jakarta,9500000,1
